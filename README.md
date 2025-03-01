@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 To install and run this project, you will need:
 
 - [Git](https://git-scm.com/)
-- [NodeJS](https://nodejs.org/en/)
+- [NodeJS](https://nodejs.org/en/) (Version 14 should work)
 - [NPM](https://www.npmjs.com/package/npm)
 
 ### Installing
